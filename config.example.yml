@@ -1,0 +1,6 @@
+db_host: localhost
+db_port: 3306
+db_user: acme_user
+db_password: acme_password
+db_database: acme_fake_data
+wait_time_seconds: 60

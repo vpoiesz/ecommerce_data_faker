@@ -1,0 +1,21 @@
+GEM
+  remote: http://rubygems.org/
+  specs:
+    concurrent-ruby (1.0.5)
+    faker (1.8.7)
+      i18n (>= 0.7)
+    i18n (1.0.1)
+      concurrent-ruby (~> 1.0)
+    mysql2 (0.5.1)
+    sequel (5.8.0)
+
+PLATFORMS
+  ruby
+
+DEPENDENCIES
+  faker
+  mysql2
+  sequel
+
+BUNDLED WITH
+   1.16.1
